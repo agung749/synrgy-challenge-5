@@ -758,4 +758,5 @@ value: photo file
 ```
 "# synrgy-challenge-5" 
 #   s y n r g y - c h a l l e n g e - 6  
+ #   s y n r g y - c h a l l e n g e - 6  
  
